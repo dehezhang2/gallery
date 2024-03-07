@@ -1,216 +1,4 @@
 {
-  "City": [
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC01083.min.jpg",
-      "width": 1422,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC01083.placeholder.jpg",
-      "path": "./photos/City/DSC01083.jpg"
-    },
-    {
-      "height": 1121,
-      "compressed_path": "./photos/City/DSC01091-Enhanced-NR.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC01091-Enhanced-NR.placeholder.jpg",
-      "path": "./photos/City/DSC01091-Enhanced-NR.jpg"
-    },
-    {
-      "height": 1365,
-      "compressed_path": "./photos/City/DSC05345.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC05345.placeholder.jpg",
-      "path": "./photos/City/DSC05345.jpg"
-    },
-    {
-      "height": 872,
-      "compressed_path": "./photos/City/DSC05351.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC05351.placeholder.jpg",
-      "path": "./photos/City/DSC05351.jpg"
-    },
-    {
-      "height": 1392,
-      "compressed_path": "./photos/City/DSC00599.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC00599.placeholder.jpg",
-      "path": "./photos/City/DSC00599.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC05343.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC05343.placeholder.jpg",
-      "path": "./photos/City/DSC05343.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC07025.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC07025.placeholder.jpg",
-      "path": "./photos/City/DSC07025.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC01075.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC01075.placeholder.jpg",
-      "path": "./photos/City/DSC01075.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC05367.min.jpg",
-      "width": 1400,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC05367.placeholder.jpg",
-      "path": "./photos/City/DSC05367.jpg"
-    },
-    {
-      "height": 1470,
-      "compressed_path": "./photos/City/DSC07571.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC07571.placeholder.jpg",
-      "path": "./photos/City/DSC07571.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC05372.min.jpg",
-      "width": 1649,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC05372.placeholder.jpg",
-      "path": "./photos/City/DSC05372.jpg"
-    },
-    {
-      "height": 1167,
-      "compressed_path": "./photos/City/DSC05358.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC05358.placeholder.jpg",
-      "path": "./photos/City/DSC05358.jpg"
-    },
-    {
-      "height": 1565,
-      "compressed_path": "./photos/City/DSC03760.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC03760.placeholder.jpg",
-      "path": "./photos/City/DSC03760.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/City/DSC03361.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/City/DSC03361.placeholder.jpg",
-      "path": "./photos/City/DSC03361.jpg"
-    }
-  ],
-  "Nature": [
-    {
-      "height": 731,
-      "compressed_path": "./photos/Nature/DSC00070.min.jpg",
-      "width": 1080,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00070.placeholder.jpg",
-      "path": "./photos/Nature/DSC00070.jpg"
-    },
-    {
-      "height": 720,
-      "compressed_path": "./photos/Nature/DSC03903.min.jpg",
-      "width": 1080,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC03903.placeholder.jpg",
-      "path": "./photos/Nature/DSC03903.jpg"
-    },
-    {
-      "height": 720,
-      "compressed_path": "./photos/Nature/DSC00549.min.jpg",
-      "width": 1080,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00549.placeholder.jpg",
-      "path": "./photos/Nature/DSC00549.jpg"
-    },
-    {
-      "height": 1365,
-      "compressed_path": "./photos/Nature/DSC03928.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC03928.placeholder.jpg",
-      "path": "./photos/Nature/DSC03928.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Nature/DSC00206.min.jpg",
-      "width": 720,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00206.placeholder.jpg",
-      "path": "./photos/Nature/DSC00206.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Nature/DSC01857.min.jpg",
-      "width": 1322,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC01857.placeholder.jpg",
-      "path": "./photos/Nature/DSC01857.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Nature/DSC01856.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC01856.placeholder.jpg",
-      "path": "./photos/Nature/DSC01856.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Nature/DSC00135.min.jpg",
-      "width": 768,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00135.placeholder.jpg",
-      "path": "./photos/Nature/DSC00135.jpg"
-    },
-    {
-      "height": 1672,
-      "compressed_path": "./photos/Nature/DSC00389-2.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00389-2.placeholder.jpg",
-      "path": "./photos/Nature/DSC00389-2.jpg"
-    },
-    {
-      "height": 1438,
-      "compressed_path": "./photos/Nature/DSC00208-2.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00208-2.placeholder.jpg",
-      "path": "./photos/Nature/DSC00208-2.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Nature/DSC00090.min.jpg",
-      "width": 720,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00090.placeholder.jpg",
-      "path": "./photos/Nature/DSC00090.jpg"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Nature/DSC00537.min.jpg",
-      "width": 720,
-      "compressed": false,
-      "placeholder_path": "./photos/Nature/DSC00537.placeholder.jpg",
-      "path": "./photos/Nature/DSC00537.jpg"
-    }
-  ],
   "Portraits": [
     {
       "height": 1080,
@@ -549,6 +337,48 @@
       "path": "./photos/Portraits/DSC06192.jpg"
     }
   ],
+  "Event": [
+    {
+      "height": 3230,
+      "compressed_path": "./photos/Event/DSC09704-Enhanced-NR.min.jpg",
+      "width": 3688,
+      "compressed": false,
+      "placeholder_path": "./photos/Event/DSC09704-Enhanced-NR.placeholder.jpg",
+      "path": "./photos/Event/DSC09704-Enhanced-NR.jpg"
+    },
+    {
+      "height": 3506,
+      "compressed_path": "./photos/Event/DSC09714-Enhanced-NR.min.jpg",
+      "width": 3034,
+      "compressed": false,
+      "placeholder_path": "./photos/Event/DSC09714-Enhanced-NR.placeholder.jpg",
+      "path": "./photos/Event/DSC09714-Enhanced-NR.jpg"
+    },
+    {
+      "height": 5307,
+      "compressed_path": "./photos/Event/DSC09759-Enhanced-NR.min.jpg",
+      "width": 3048,
+      "compressed": false,
+      "placeholder_path": "./photos/Event/DSC09759-Enhanced-NR.placeholder.jpg",
+      "path": "./photos/Event/DSC09759-Enhanced-NR.jpg"
+    },
+    {
+      "height": 3176,
+      "compressed_path": "./photos/Event/DSC09701-Enhanced-NR.min.jpg",
+      "width": 2292,
+      "compressed": false,
+      "placeholder_path": "./photos/Event/DSC09701-Enhanced-NR.placeholder.jpg",
+      "path": "./photos/Event/DSC09701-Enhanced-NR.jpg"
+    },
+    {
+      "height": 1663,
+      "compressed_path": "./photos/Event/WeChat Image_20231126050652-2.min.jpg",
+      "width": 1223,
+      "compressed": false,
+      "placeholder_path": "./photos/Event/WeChat Image_20231126050652-2.placeholder.jpg",
+      "path": "./photos/Event/WeChat Image_20231126050652-2.jpg"
+    }
+  ],
   "Goldenhour": [
     {
       "height": 1080,
@@ -615,160 +445,118 @@
       "path": "./photos/Goldenhour/DSC06702-Enhanced-NR.jpg"
     }
   ],
-  "Culture": [
+  "City": [
     {
       "height": 2048,
-      "compressed_path": "./photos/Culture/DSC03972.min.jpg",
-      "width": 1693,
+      "compressed_path": "./photos/City/DSC01083.min.jpg",
+      "width": 1422,
       "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC03972.placeholder.jpg",
-      "path": "./photos/Culture/DSC03972.jpg"
+      "placeholder_path": "./photos/City/DSC01083.placeholder.jpg",
+      "path": "./photos/City/DSC01083.jpg"
     },
     {
-      "height": 1446,
-      "compressed_path": "./photos/Culture/DSC00937.min.jpg",
+      "height": 1121,
+      "compressed_path": "./photos/City/DSC01091-Enhanced-NR.min.jpg",
       "width": 2048,
       "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC00937.placeholder.jpg",
-      "path": "./photos/Culture/DSC00937.jpg"
-    },
-    {
-      "height": 1454,
-      "compressed_path": "./photos/Culture/DSC00248-Enhanced-NR.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC00248-Enhanced-NR.placeholder.jpg",
-      "path": "./photos/Culture/DSC00248-Enhanced-NR.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Culture/DSC03554.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC03554.placeholder.jpg",
-      "path": "./photos/Culture/DSC03554.jpg"
-    },
-    {
-      "height": 1478,
-      "compressed_path": "./photos/Culture/DSC03913.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC03913.placeholder.jpg",
-      "path": "./photos/Culture/DSC03913.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Culture/DSC00951.min.jpg",
-      "width": 1791,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC00951.placeholder.jpg",
-      "path": "./photos/Culture/DSC00951.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Culture/DSC00972.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC00972.placeholder.jpg",
-      "path": "./photos/Culture/DSC00972.jpg"
-    },
-    {
-      "height": 2048,
-      "compressed_path": "./photos/Culture/DSC03897.min.jpg",
-      "width": 1365,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC03897.placeholder.jpg",
-      "path": "./photos/Culture/DSC03897.jpg"
-    },
-    {
-      "height": 742,
-      "compressed_path": "./photos/Culture/DSC08147.min.jpg",
-      "width": 1080,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC08147.placeholder.jpg",
-      "path": "./photos/Culture/DSC08147.jpg"
-    },
-    {
-      "height": 3476,
-      "compressed_path": "./photos/Culture/DSC02091.min.jpg",
-      "width": 3317,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC02091.placeholder.jpg",
-      "path": "./photos/Culture/DSC02091.jpg"
-    },
-    {
-      "height": 3698,
-      "compressed_path": "./photos/Culture/DSC01762.min.jpg",
-      "width": 3948,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC01762.placeholder.jpg",
-      "path": "./photos/Culture/DSC01762.jpg"
-    },
-    {
-      "height": 1170,
-      "compressed_path": "./photos/Culture/DSC01005.min.jpg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC01005.placeholder.jpg",
-      "path": "./photos/Culture/DSC01005.jpg"
+      "placeholder_path": "./photos/City/DSC01091-Enhanced-NR.placeholder.jpg",
+      "path": "./photos/City/DSC01091-Enhanced-NR.jpg"
     },
     {
       "height": 1365,
-      "compressed_path": "./photos/Culture/DSC03956.min.jpg",
+      "compressed_path": "./photos/City/DSC05345.min.jpg",
       "width": 2048,
       "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC03956.placeholder.jpg",
-      "path": "./photos/Culture/DSC03956.jpg"
+      "placeholder_path": "./photos/City/DSC05345.placeholder.jpg",
+      "path": "./photos/City/DSC05345.jpg"
     },
     {
-      "height": 1560,
-      "compressed_path": "./photos/Culture/DSC02282.min.jpg",
+      "height": 872,
+      "compressed_path": "./photos/City/DSC05351.min.jpg",
       "width": 2048,
       "compressed": false,
-      "placeholder_path": "./photos/Culture/DSC02282.placeholder.jpg",
-      "path": "./photos/Culture/DSC02282.jpg"
-    }
-  ],
-  "Event": [
-    {
-      "height": 3230,
-      "compressed_path": "./photos/Event/DSC09704-Enhanced-NR.min.jpg",
-      "width": 3688,
-      "compressed": false,
-      "placeholder_path": "./photos/Event/DSC09704-Enhanced-NR.placeholder.jpg",
-      "path": "./photos/Event/DSC09704-Enhanced-NR.jpg"
+      "placeholder_path": "./photos/City/DSC05351.placeholder.jpg",
+      "path": "./photos/City/DSC05351.jpg"
     },
     {
-      "height": 3506,
-      "compressed_path": "./photos/Event/DSC09714-Enhanced-NR.min.jpg",
-      "width": 3034,
+      "height": 1392,
+      "compressed_path": "./photos/City/DSC00599.min.jpg",
+      "width": 2048,
       "compressed": false,
-      "placeholder_path": "./photos/Event/DSC09714-Enhanced-NR.placeholder.jpg",
-      "path": "./photos/Event/DSC09714-Enhanced-NR.jpg"
+      "placeholder_path": "./photos/City/DSC00599.placeholder.jpg",
+      "path": "./photos/City/DSC00599.jpg"
     },
     {
-      "height": 5307,
-      "compressed_path": "./photos/Event/DSC09759-Enhanced-NR.min.jpg",
-      "width": 3048,
+      "height": 2048,
+      "compressed_path": "./photos/City/DSC05343.min.jpg",
+      "width": 1365,
       "compressed": false,
-      "placeholder_path": "./photos/Event/DSC09759-Enhanced-NR.placeholder.jpg",
-      "path": "./photos/Event/DSC09759-Enhanced-NR.jpg"
+      "placeholder_path": "./photos/City/DSC05343.placeholder.jpg",
+      "path": "./photos/City/DSC05343.jpg"
     },
     {
-      "height": 3176,
-      "compressed_path": "./photos/Event/DSC09701-Enhanced-NR.min.jpg",
-      "width": 2292,
+      "height": 2048,
+      "compressed_path": "./photos/City/DSC07025.min.jpg",
+      "width": 1365,
       "compressed": false,
-      "placeholder_path": "./photos/Event/DSC09701-Enhanced-NR.placeholder.jpg",
-      "path": "./photos/Event/DSC09701-Enhanced-NR.jpg"
+      "placeholder_path": "./photos/City/DSC07025.placeholder.jpg",
+      "path": "./photos/City/DSC07025.jpg"
     },
     {
-      "height": 1663,
-      "compressed_path": "./photos/Event/WeChat Image_20231126050652-2.min.jpg",
-      "width": 1223,
+      "height": 2048,
+      "compressed_path": "./photos/City/DSC01075.min.jpg",
+      "width": 1365,
       "compressed": false,
-      "placeholder_path": "./photos/Event/WeChat Image_20231126050652-2.placeholder.jpg",
-      "path": "./photos/Event/WeChat Image_20231126050652-2.jpg"
+      "placeholder_path": "./photos/City/DSC01075.placeholder.jpg",
+      "path": "./photos/City/DSC01075.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/City/DSC05367.min.jpg",
+      "width": 1400,
+      "compressed": false,
+      "placeholder_path": "./photos/City/DSC05367.placeholder.jpg",
+      "path": "./photos/City/DSC05367.jpg"
+    },
+    {
+      "height": 1470,
+      "compressed_path": "./photos/City/DSC07571.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/City/DSC07571.placeholder.jpg",
+      "path": "./photos/City/DSC07571.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/City/DSC05372.min.jpg",
+      "width": 1649,
+      "compressed": false,
+      "placeholder_path": "./photos/City/DSC05372.placeholder.jpg",
+      "path": "./photos/City/DSC05372.jpg"
+    },
+    {
+      "height": 1167,
+      "compressed_path": "./photos/City/DSC05358.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/City/DSC05358.placeholder.jpg",
+      "path": "./photos/City/DSC05358.jpg"
+    },
+    {
+      "height": 1565,
+      "compressed_path": "./photos/City/DSC03760.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/City/DSC03760.placeholder.jpg",
+      "path": "./photos/City/DSC03760.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/City/DSC03361.min.jpg",
+      "width": 1365,
+      "compressed": false,
+      "placeholder_path": "./photos/City/DSC03361.placeholder.jpg",
+      "path": "./photos/City/DSC03361.jpg"
     }
   ],
   "Landscape": [
@@ -1059,6 +847,218 @@
       "compressed": false,
       "placeholder_path": "./photos/Landscape/DSC01947.placeholder.jpg",
       "path": "./photos/Landscape/DSC01947.jpg"
+    }
+  ],
+  "Culture": [
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Culture/DSC03972.min.jpg",
+      "width": 1693,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC03972.placeholder.jpg",
+      "path": "./photos/Culture/DSC03972.jpg"
+    },
+    {
+      "height": 1446,
+      "compressed_path": "./photos/Culture/DSC00937.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC00937.placeholder.jpg",
+      "path": "./photos/Culture/DSC00937.jpg"
+    },
+    {
+      "height": 1454,
+      "compressed_path": "./photos/Culture/DSC00248-Enhanced-NR.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC00248-Enhanced-NR.placeholder.jpg",
+      "path": "./photos/Culture/DSC00248-Enhanced-NR.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Culture/DSC03554.min.jpg",
+      "width": 1365,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC03554.placeholder.jpg",
+      "path": "./photos/Culture/DSC03554.jpg"
+    },
+    {
+      "height": 1478,
+      "compressed_path": "./photos/Culture/DSC03913.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC03913.placeholder.jpg",
+      "path": "./photos/Culture/DSC03913.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Culture/DSC00951.min.jpg",
+      "width": 1791,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC00951.placeholder.jpg",
+      "path": "./photos/Culture/DSC00951.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Culture/DSC00972.min.jpg",
+      "width": 1365,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC00972.placeholder.jpg",
+      "path": "./photos/Culture/DSC00972.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Culture/DSC03897.min.jpg",
+      "width": 1365,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC03897.placeholder.jpg",
+      "path": "./photos/Culture/DSC03897.jpg"
+    },
+    {
+      "height": 742,
+      "compressed_path": "./photos/Culture/DSC08147.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC08147.placeholder.jpg",
+      "path": "./photos/Culture/DSC08147.jpg"
+    },
+    {
+      "height": 3476,
+      "compressed_path": "./photos/Culture/DSC02091.min.jpg",
+      "width": 3317,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC02091.placeholder.jpg",
+      "path": "./photos/Culture/DSC02091.jpg"
+    },
+    {
+      "height": 3698,
+      "compressed_path": "./photos/Culture/DSC01762.min.jpg",
+      "width": 3948,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC01762.placeholder.jpg",
+      "path": "./photos/Culture/DSC01762.jpg"
+    },
+    {
+      "height": 1170,
+      "compressed_path": "./photos/Culture/DSC01005.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC01005.placeholder.jpg",
+      "path": "./photos/Culture/DSC01005.jpg"
+    },
+    {
+      "height": 1365,
+      "compressed_path": "./photos/Culture/DSC03956.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC03956.placeholder.jpg",
+      "path": "./photos/Culture/DSC03956.jpg"
+    },
+    {
+      "height": 1560,
+      "compressed_path": "./photos/Culture/DSC02282.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Culture/DSC02282.placeholder.jpg",
+      "path": "./photos/Culture/DSC02282.jpg"
+    }
+  ],
+  "Nature": [
+    {
+      "height": 731,
+      "compressed_path": "./photos/Nature/DSC00070.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00070.placeholder.jpg",
+      "path": "./photos/Nature/DSC00070.jpg"
+    },
+    {
+      "height": 720,
+      "compressed_path": "./photos/Nature/DSC03903.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC03903.placeholder.jpg",
+      "path": "./photos/Nature/DSC03903.jpg"
+    },
+    {
+      "height": 720,
+      "compressed_path": "./photos/Nature/DSC00549.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00549.placeholder.jpg",
+      "path": "./photos/Nature/DSC00549.jpg"
+    },
+    {
+      "height": 1365,
+      "compressed_path": "./photos/Nature/DSC03928.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC03928.placeholder.jpg",
+      "path": "./photos/Nature/DSC03928.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Nature/DSC00206.min.jpg",
+      "width": 720,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00206.placeholder.jpg",
+      "path": "./photos/Nature/DSC00206.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Nature/DSC01857.min.jpg",
+      "width": 1322,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC01857.placeholder.jpg",
+      "path": "./photos/Nature/DSC01857.jpg"
+    },
+    {
+      "height": 2048,
+      "compressed_path": "./photos/Nature/DSC01856.min.jpg",
+      "width": 1365,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC01856.placeholder.jpg",
+      "path": "./photos/Nature/DSC01856.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Nature/DSC00135.min.jpg",
+      "width": 768,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00135.placeholder.jpg",
+      "path": "./photos/Nature/DSC00135.jpg"
+    },
+    {
+      "height": 1672,
+      "compressed_path": "./photos/Nature/DSC00389-2.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00389-2.placeholder.jpg",
+      "path": "./photos/Nature/DSC00389-2.jpg"
+    },
+    {
+      "height": 1438,
+      "compressed_path": "./photos/Nature/DSC00208-2.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00208-2.placeholder.jpg",
+      "path": "./photos/Nature/DSC00208-2.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Nature/DSC00090.min.jpg",
+      "width": 720,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00090.placeholder.jpg",
+      "path": "./photos/Nature/DSC00090.jpg"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Nature/DSC00537.min.jpg",
+      "width": 720,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC00537.placeholder.jpg",
+      "path": "./photos/Nature/DSC00537.jpg"
     }
   ]
 }
